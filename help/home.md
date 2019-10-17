@@ -16,7 +16,7 @@ We will continue to provide more information to your organization as we get clos
 
 ## More information 
 
-Click on the solution for more information.
+Click on the list below for more information on your Adobe Experience Cloud solution:
 
-* [Campaign](campaign.md)
-* [AEM](AEM.md)
+* [Adobe Campaign](campaign.md)
+* [Adobe Experience Manager](aem.md)
