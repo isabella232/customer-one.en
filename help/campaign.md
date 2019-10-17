@@ -32,6 +32,6 @@ As a System Admin, you have access to the Adobe Admin Console Support Tab which 
 
 After submitting the System Admin Confirmation Form, no additional actions will be required by you at this time.  We will contact the Systems admins regarding the next steps in early 2020.   
 
-For questions regarding this email, please contact us at mailto:customercare@adobe.com. 
+For questions regarding this email, please contact us at customercare@adobe.com. 
 
 Kind regards and thank you for your assistance. 
