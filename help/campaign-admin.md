@@ -18,7 +18,7 @@ To get started, we need your help in confirming who will be the System Administr
 
 ## ACTION: Confirm Your System Administrator (System Admin) 
 
-Our records indicate that you are a designated System Admin within your organization, the person responsible for managing and submitting support requests for these Adobe products.  
+Our records indicate that you are a **designated System Admin within your organization**, the person responsible for managing and submitting support requests for these Adobe products.  
 
 As a System Admin, you have access to the Adobe Admin Console Support Tab which allows you to: 
 
