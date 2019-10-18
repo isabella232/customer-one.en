@@ -10,5 +10,7 @@ seo-description: Experience Manager Notices
 
 ## Notifications for Adobe Experience Manager Customers, by Date.
 
+Full list of notifications for AEM customers
+
 * [AEM System Admin Notification - October 21, 2019](aem-admin.md)
 * [AEM Deploy Contact Notification - October 21, 2019](aem-deploy.md)
