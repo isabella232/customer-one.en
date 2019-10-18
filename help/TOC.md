@@ -3,11 +3,11 @@ cloud: experience-cloud
 product: experience cloud
 sub-product: customer one
 audience: end-user
-user-guide-title: Customer One for Enterprise Help
+user-guide-title: [!DNL Customer One for Enterprise] Help
 
 ---
 
-# Customer One for Enterprise {#using}
+# [!DNL Customer One for Enterprise] {#using}
 
 + [Introduction](home.md)
 + Campaign {#campaign}
