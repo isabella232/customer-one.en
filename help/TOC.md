@@ -11,8 +11,10 @@ user-guide-title: Customer One for Enterprise Help
 
 + [Introduction](home.md)
 + Campaign {#campaign}
+  + [List of Campaign Notices](campaign.md)
   + [Campaign Admin Notice](campaign-admin.md)
   + [Campaign Deploy Notice](campaign-deploy.md)
 + Experience Manager {#aem}
+  + [List of AEM Notices](aem.md)
   + [AEM Admin Notice](aem-admin.md)
   + [AEM Deploy Contact Notice](aem-deploy.md)
