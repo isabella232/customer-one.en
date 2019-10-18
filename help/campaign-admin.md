@@ -1,16 +1,16 @@
 ---
-title: AEM - new support experience coming
-seo-title: Adobe Experience Manager - New Support Experience Coming
-description: Adobe Experience Manager - New Support Experience Coming
-seo-description: Adobe Experience Manager - New Support Experience Coming
+title: Campaign - New Support Experience is coming
+seo-title: Adobe Campaign - New enterprise support experience is coming
+description: Adobe Campaign - New enterprise support experience is coming
+seo-description: Adobe Campaign - New enterprise support experience is coming
 
 ---
 
-# Adobe Experience Manager - New Support Experience Coming
+# Campaign - New Support Experience is Coming
 
 **October 21, 2019**
 
-We are working on some key enhancements to the support experience for our Adobe Experience Manager customers. These changes, *which we plan to roll out in April/May of 2020*, will allow your organization to access Adobe Customer Support and provide greater visibility into your service history via a common entry portal.  
+We are working on some key enhancements to the support experience for our Adobe Campaign customers. These changes, *which we plan to roll out in April/May of 2020*, will allow your organization to access Adobe Customer Support and provide greater visibility into your service history via a common entry portal.  
 
 We will continue to provide more information to your organization as we get closer to the roll out.  
 
@@ -18,7 +18,7 @@ To get started, we need your help in confirming who will be the System Administr
 
 ## ACTION: Confirm Your System Administrator (System Admin) 
 
-Our records indicate that you are a designated System Admin within your organization, the person responsible for managing and submitting support requests for these Adobe products.  
+Our records indicate that you are a **designated System Admin within your organization**, the person responsible for managing and submitting support requests for these Adobe products.  
 
 As a System Admin, you have access to the Adobe Admin Console Support Tab which allows you to: 
 
