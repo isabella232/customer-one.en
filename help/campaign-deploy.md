@@ -3,7 +3,6 @@ title: Your New Adobe Customer Support Experience is Coming - Campaign deploy co
 description: Your New Adobe Customer Support Experience is Coming - Campaign deploy contact
 seo-title: Your New Adobe Customer Support Experience is Coming - Campaign deploy contact
 seo-description: Your New Adobe Customer Support Experience is Coming - Campaign deploy contact
-
 ---
 
 # Your New Adobe Customer Support Experience is Coming 
@@ -16,20 +15,18 @@ To get started, we need your help in confirming who will be the System Administr
 
 ## ACTION: Confirm Your System Administrator (System Admin) 
 
-Our records have identified you as the **primary contact during the original purchasing process for your organization’s Adobe Campaign product(s)**. As a result, you are listed as the designated System Admin, the person responsible for managing and submitting support requests for these Adobe products.  
+Our records have identified you as the primary contact during the original purchasing process for your organization’s Adobe Experience Manager/Adobe Campaign product(s). As a result, you are listed as the designated **System Admin**, the person responsible for managing and submitting support requests for these Adobe products.
 
-As a System Admin, you have access to the [!DNL Adobe Admin Console Support Tab] which allows you to:  
+As a System Admin, you have access to the [!DNL Adobe Admin Console Support Portal] which allows you to:
 
 * Explore improved case management features 
-* Conveniently initiate chat conversations with [!DNL Adobe Customer Care] 
+* Conveniently initiate chat conversations with [!DNL Adobe Customer Support] 
 * Grant support user access to the portal 
 
-Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Experience Manager/Adobe Campaign products by **completing and submitting the [!DNL System Admin Confirmation Form] by November 4, 2019**. 
+Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Experience Manager/Adobe Campaign products by completing and submitting the [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) by November 4, 2019. By completing this form, it will ensure the appropriate credentials are assigned to your organization’s designated System Admin and allow us to provide more details to help your organization be prepared for the coming changes.
 
-By completing this form, it will ensure the appropriate credentials are assigned to your organization’s designated System Admin and allow us to provide more details to help your organization be prepared for the coming changes. 
+An email confirmation will be sent upon receipt of the [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
 
-After submitting the [!DNL System Admin Confirmation Form], no additional actions will be required by you at this time.  We will contact the confirmed System Admins regarding the next steps in early 2020.   
+For questions regarding this email, please contact us at customercare@adobe.com.
 
-For questions regarding this email, please contact us at customercare@adobe.com. 
-
-Kind regards and thank you for your assistance. 
+Kind regards and thank you for your assistance.
