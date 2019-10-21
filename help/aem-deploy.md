@@ -17,10 +17,10 @@ To get started, we need your help in confirming who will be the System Administr
 
 Our records have identified you as the primary contact during the original purchasing process for your organization’s Adobe Experience Manager/Adobe Campaign product(s). As a result, you are listed as the designated **System Admin**, the person responsible for managing and submitting support requests for these Adobe products.
 
-As a System Admin, you have access to the [!DNL Adobe Admin Console Support Tab] which allows you to:
+As a System Admin, you have access to the [!DNL Adobe Admin Console Support Portal] which allows you to:
 
 * Explore improved case management features 
-* Conveniently initiate chat conversations with Adobe Customer Support 
+* Conveniently initiate chat conversations with [!DNL Adobe Customer Support]
 * Grant support user access to the portal 
 
 Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Experience Manager/Adobe Campaign products by completing and submitting the [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) by November 4, 2019. By completing this form, it will ensure the appropriate credentials are assigned to your organization’s designated System Admin and allow us to provide more details to help your organization be prepared for the coming changes.

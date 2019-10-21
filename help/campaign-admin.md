@@ -19,10 +19,10 @@ To get started, we need your help in confirming who will be the System Administr
 
 Our records indicate that you are a **designated System Admin within your organization**, the person responsible for managing and submitting support requests for these Adobe products.  
 
-As a System Admin, you have access to the [!DNL Adobe Admin Console Support Tab] which allows you to: 
+As a System Admin, you have access to the [!DNL Adobe Admin Console Support Portal] which allows you to: 
 
 * Explore improved case management features 
-* Conveniently initiate chat conversations with [!DNL Adobe Customer Care] 
+* Conveniently initiate chat conversations with [!DNL Adobe Customer Support] 
 * Grant support user access to the portal 
 
 >[!NOTE]
