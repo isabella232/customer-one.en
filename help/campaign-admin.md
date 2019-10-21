@@ -26,7 +26,7 @@ As a System Admin, you have access to the [!DNL Adobe Admin Console Support Port
 * Grant support user access to the portal 
 
 >[!NOTE]
->Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Experience Manager/Adobe Campaign products by completing and submitting the [!DNL System Admin Confirmation Form] by November 4, 2019.  
+>Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Campaign products by completing and submitting the [!DNL System Admin Confirmation Form] by November 4, 2019.  
 >By completing this form, it will ensure the appropriate credentials are assigned to your organization’s designated System Admin.  
 
 After submitting the [!DNL System Admin Confirmation Form], no additional actions will be required by you at this time.  We will contact the System Admins regarding the next steps in early 2020.   
