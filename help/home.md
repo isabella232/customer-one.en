@@ -16,7 +16,7 @@ We will continue to provide more information to your organization as we get clos
 
 ## More information 
 
-Click on the list below for more information on your Adobe Experience Cloud solution:
+Click on the list below for more information about the new Customer Support Experience on your Adobe Experience Cloud solution:
 
 * [Adobe Campaign](campaign-list.md)
 * [Adobe Experience Manager](aem-list.md)
