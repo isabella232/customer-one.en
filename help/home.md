@@ -23,37 +23,20 @@ Support System Administrators will act as super users in the Admin Console and w
 *	Conveniently initiate chat conversations with Adobe Customer Support  
 
 ## What to expect during the next few months:
+#### February - User Set Up
+*       Adobe to set up known System Admin; Contract Contacts & known Support Users in new system
+*       System generated emails sent  - users set up and system live for user creation/validation only
 
-<div class="row">
-  <div class="column" >
-    <h5>February - User Set Up</h5>
-    <p>  	<ul>
-					<li>Adobe to set up known System Admin; Contract Contacts & known Support Users in new system</li>
-					<li>System generated emails sent  - users set up and system live for user creation/validation only </li>
-					</ul>
-    </p>
-  </div>
-  <div class="column" >
-    <h5>March - User Validation</h5>
-        <p>  	<ul>
-					<li>Adobe to contact System Admin/Contract Contacts with next steps</li>
-					<li>System Admin/Contract Contacts to validate the existing support users and create any missing support users in new system </li>
-					</ul>
-    </p>
-  </div>
-  <div class="column" >
-    <h5>April - Enablement</h5>
-        <p>  	<ul>
-					<li>Adobe to provide learning materials to all support system users</li>
-					<li>System Admin/Contract Contacts to finalize support user set up and roles   </li>
-					</ul>
-    </p>
-  </div>
-  <div class="column" >
-    <h5>May - Launch!</h5>
-      <p>  	<ul>
-					<li>Adobe to announce launch of new system </li>
-					<li>Customers begin using new system </li>
-					</ul>
+#### March - User Validation
+*       Adobe to contact System Admin/Contract Contacts with next steps
+*       System Admin/Contract Contacts to validate the existing support users and create any missing support users in new system
 
+### April - Enablement
+*       Adobe to provide learning materials to all support system users
+*       System Admin/Contract Contacts to finalize support user set up and roles 
+					
+### May - Launch!
+*       Adobe to announce launch of new system 
+*       Customers begin using new system 
+					
 #### For questions regarding this email, please contact us at customercare@adobe.com. 
