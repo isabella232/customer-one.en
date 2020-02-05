@@ -17,9 +17,9 @@ In February and March, Adobe will be setting up both the new Support System Admi
 
 Support System Administrators will act as super users in the Admin Console and will see system generated emails whenever a new support user is created.  In addition, they will be able to:
 
-*	Create/remove support users in the portal and govern access roles
-*	Take advantage of case management tools that make it easier to work through support cases with Adobe Customer Support
-*	Conveniently initiate chat conversations with Adobe Customer Support  
+* Create/remove support users in the portal and govern access roles
+* Take advantage of case management tools that make it easier to work through support cases with Adobe Customer Support 
+* Conveniently initiate chat conversations with Adobe Customer Support  
 
 ## What to expect during the next few months
 
@@ -28,7 +28,7 @@ Support System Administrators will act as super users in the Admin Console and w
 * Adobe to set up known System Admin; Contract Contacts & known Support Users in new system
 * System generated emails sent - users set up and system live for user creation/validation only
 
-March - User Validation
+### March - User Validation
 
 * Adobe to contact System Admin/Contract Contacts with next steps
 System Admin/Contract Contacts to validate the existing support users and create any missing support users in new system
