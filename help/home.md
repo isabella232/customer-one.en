@@ -3,7 +3,6 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: New Adobe Customer Support Experience
 seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
-
 ---
 
 # New Adobe Customer Support Experience
@@ -12,7 +11,7 @@ We care about our customers and are working to make it easier to get help from A
 
 We will continue to provide more information to your organization as we get closer to the rollout.  
 
-## More information 
+## More information
 
 In February and March, Adobe will be setting up both the new Support System Administrators and Support Users in this portal.  If our records indicate that you currently act as a Support System Administrator in Adobe’s Admin Console – or – your name was listed on the purchase contract as Adobe’s customer contact for deploying Adobe Campaign and/or Adobe Experience Manager within your organization, you will be set up as the Support System Administrator for your organization.
 
@@ -22,22 +21,26 @@ Support System Administrators will act as super users in the Admin Console and w
 * Take advantage of case management tools that make it easier to work through support cases with Adobe Customer Support 
 * Conveniently initiate chat conversations with Adobe Customer Support  
 
-## What to expect during the next few months:
+## What to expect during the next few months
 
 ### February - User Set Up
+
 * Adobe to set up known System Admin; Contract Contacts & known Support Users in new system
-* System generated emails sent  - users set up and system live for user creation/validation only
+* System generated emails sent - users set up and system live for user creation/validation only
 
 ### March - User Validation
+
 * Adobe to contact System Admin/Contract Contacts with next steps
-* System Admin/Contract Contacts to validate the existing support users and create any missing support users in new system
+System Admin/Contract Contacts to validate the existing support users and create any missing support users in new system
 
 ### April - Enablement
+
 * Adobe to provide learning materials to all support system users
-* System Admin/Contract Contacts to finalize support user set up and roles 
-					
+* System Admin/Contract Contacts to finalize support user set up and roles
+
 ### May - Launch!
-*  Adobe to announce launch of new system 
-*  Customers begin using new system 
-					
-#### For questions regarding this email, please contact us at customercare@adobe.com. 
+
+* Adobe to announce launch of new system
+* Customers begin using new system
+
+For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
