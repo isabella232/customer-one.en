@@ -38,4 +38,4 @@ Support System Administrators will act as super users in the Admin Console and w
 * Adobe to announce launch of new system
 * Customers begin using new system
 
-For questions regarding this email, please contact us at [customercare@adobe.com](customercare@adobe.com).
+For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
