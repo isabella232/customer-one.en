@@ -28,9 +28,9 @@ As previously shared, we are working to improve how you interact with Adobe Cust
 
 After Go-Live, if you encounter issues and are unable to login to the new tool, you have the following  options:
 
-### Option 1: Email
+### Option 1: Submit a Ticket
 
-Email us at [customercare@adobe.com](mailto:customercare@adobe.com) and include:
+Contact us by logging a ticket from [Experience League](https://experienceleague.adobe.com/?support-solution=General#support) and include:
 
 * Contact details: Name, email address, phone
 * Company Name
@@ -43,4 +43,4 @@ Email us at [customercare@adobe.com](mailto:customercare@adobe.com) and include:
 Prior to May 11th you may still use the legacy [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) or [Experience Manager Daycare](https://daycare.day.com/home.html) case management systems.  After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will be decommissioned at that time.
 
 
-For questions regarding this email, please contact us at [customercare@adobe.com](mailto:customercare@adobe.com).
+For questions regarding this email, please contact us by logging a ticket from [Experience League](https://experienceleague.adobe.com/?support-solution=General#support).
