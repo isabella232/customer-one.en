@@ -7,7 +7,9 @@ seo-title: Adobe Experience Cloud Customer One for Enterprise
 
 # New Adobe Customer Support Experience
 
-## We are excited to announce the Adobe Customer Support Experience is live as of May 11th 2020!  
+## Admin Console Support Tickets
+
+We are excited to announce the Adobe Customer Support Experience is live as of May 11th 2020!  
 
 Support Tickets are now able to be submitted via the [Admin Console](https://adminconsole.adobe.com/)
 
@@ -21,13 +23,16 @@ As previously shared, we are working to improve how you interact with Adobe Cust
 
 ## What About the Legacy Systems?
 
-### New Tickets/Cases will no longer be able to be submitted in leacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
+New Tickets/Cases will no longer be able to be submitted in leacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
 
-### Existing Tickets/Cases:
+### Existing Tickets/Cases
+
 * Between May 11th and May 20th the legacy systems will remain available to work existing tickets/cases to completion.
 * Beginning May 20th the support team will migrate remaining open cases from the legacy systems to the new support experience.  You will receive an email notification regarding how to contact support to continue to work these cases.
 
-### Case History: Closed case histroy will be visible to the Adobe support personnel.  If you need assistance regarding a closed case, please see the Need Help? section below.
+### Case History
+
+Closed case histroy will be visible to the Adobe support personnel.  If you need assistance regarding a closed case, please see the Need Help? section below.
 
 ## Need Help?
 
@@ -46,6 +51,5 @@ Contact us by logging a ticket from [Experience League](https://experienceleague
 ### Option 2: Prior to May 11th
 
 Prior to May 11th you may still use the legacy [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) or [Experience Manager Daycare](https://daycare.day.com/home.html) case management systems.  After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
-
 
 For questions regarding this email, please contact us by logging a ticket from [Experience League](https://experienceleague.adobe.com/?support-solution=General#support).
