@@ -7,26 +7,31 @@ seo-title: Adobe Experience Cloud Customer One for Enterprise
 
 # New Adobe Customer Support Experience
 
-## We are excited to announce the launch of the Adobe Admin Console Support Portal in April /May 2020!  
+## We are excited to announce the Adobe Customer Support Experience is live as of May 11th 2020!  
+
+Support Tickets are now able to be submitted via the [Admin Console](https://adminconsole.adobe.com/)
 
 As previously shared, we are working to improve how you interact with Adobe Customer Support, starting with Adobe Experience Manager and Campaign products. Our vision is to streamline the support experience by moving to a single entry point, using the Adobe Admin Console. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web and chat through this single portal.
 
-## More information
-
-* You will become part of the new experience on April 27th or May 11th
-* Customers will receive 2 emails from Adobe with additional instructions (10 days prior to and on the day of Go-Live) to alert you on which day you will be able to begin submitting tickets
-* After May 11th the legacy Adobe Experience Manager and Campaign customer case management systems will be decommissioned and customers will be redirected to this page for additional guidance
-* Customer cases that were open at time of Go-Live will be migrated to the new system to facilitate closure
-
 ## Customer Actions Requested
 
-1. Review the Admin Console enablement content [Get Started](https://helpx.adobe.com/enterprise/get-started.html) and [User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html)
+1. Review the Admin Console enablement content [Get Started](https://helpx.adobe.com/enterprise/get-started.html), [User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html) and learn how to [create and manage support cases](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html)
 1. Sign in to the [Admin Console](https://adminconsole.adobe.com/) and validate that you have access
 1. If you are a System Administrator, please review and validate the support users within your organization for accuracy (these guide pages will help: [Managing Users](https://helpx.adobe.com/enterprise/using/users.html) and [Managing your Teams accounts](https://helpx.adobe.com/enterprise/using/accounts.html))
 
+## What About the Legacy Systems?
+
+### New Tickets/Cases will no longer be able to be submitted in leacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
+
+### Existing Tickets/Cases:
+* Between May 11th and May 20th the legacy systems will remain available to work existing tickets/cases to completion.
+* Beginning May 20th the support team will migrate remaining open cases from the legacy systems to the new support experience.  You will receive an email notification regarding how to contact support to continue to work these cases.
+
+### Case History: Closed case histroy will be visible to the Adobe support personnel.  If you need assistance regarding a closed case, please see the Need Help? section below.
+
 ## Need Help?
 
-After Go-Live, if you encounter issues and are unable to login to the new tool, you have the following  options:
+After Go-Live, if you encounter issues and are unable to login to the new tool, you have the following options:
 
 ### Option 1: Submit a Ticket
 
@@ -40,7 +45,7 @@ Contact us by logging a ticket from [Experience League](https://experienceleague
 
 ### Option 2: Prior to May 11th
 
-Prior to May 11th you may still use the legacy [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) or [Experience Manager Daycare](https://daycare.day.com/home.html) case management systems.  After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will be decommissioned at that time.
+Prior to May 11th you may still use the legacy [Campaign Extranet](https://support.neolane.net/webApp/extranetLogin) or [Experience Manager Daycare](https://daycare.day.com/home.html) case management systems.  After May 11th you will be redirected to the [Admin Console](https://adminconsole.adobe.com/) as these systems will not be accepting new cases.
 
 
 For questions regarding this email, please contact us by logging a ticket from [Experience League](https://experienceleague.adobe.com/?support-solution=General#support).
