@@ -24,7 +24,9 @@ As a System Admin, you have access to the [!DNL Adobe Admin Console Support Port
 * Grant support user access to the portal 
 
 >[!NOTE]
+>
 >Please confirm that you accept this role (or provide an alternative point-of-contact) as your organization’s System Admin for Adobe Experience Manager products by **completing and submitting the [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY) by November 4, 2019**. 
+>
 >By completing this form, it will ensure the appropriate credentials are assigned to your organization’s designated System Admin and allow us to provide more details to help your organization be prepared for the coming changes.
 
 An email confirmation will be sent upon receipt of the [[!DNL System Admin Confirmation Form]](https://adobe.allegiancetech.com/cgi-bin/qwebcorporate.dll?idx=N5M8RY).
