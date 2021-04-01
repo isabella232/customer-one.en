@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: experience cloud
 sub-product: customer one
 audience: end-user
