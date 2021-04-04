@@ -1,8 +1,8 @@
 ---
 title: Announcing the New Adobe Customer Support Experience
 description: First customer communication for new support experience
+exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 ---
-
 # New Adobe Customer Support Experience
 
 We care about our customers and are working to make it easier to get help from Adobe Customer Support when our customers need assistance – starting with Adobe Experience Manager and Campaign products. Our vision is to streamline the support experience by moving to a modern entry portal, the Adobe Admin Console Support Portal. We plan to roll out these changes in May 2020. Once live, your organization will be able to access Adobe Customer Support; have greater visibility into your service history via a common entry portal; and request help via phone, web and chat through a single portal.
