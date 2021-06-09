@@ -16,13 +16,15 @@ Support Tickets are now able to be submitted via the [Admin Console](https://adm
 
 As previously shared, we are working to improve how you interact with Adobe Customer Support, starting with Adobe Experience Manager and Campaign products. Our vision is to streamline the support experience by moving to a single entry point, using the Adobe Admin Console. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal.
 
-## How to submit a support ticket {#submit-ticket}
+## How to submit an Admin Console support ticket {#submit-ticket}
 
-In order to submit a support ticket in [Admin Console](https://adminconsole.adobe.com/), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket.
+In order to submit a support ticket in [Admin Console](https://adminconsole.adobe.com/), you need to have the Support admin role assigned by a System Administrator. Only a System Administrator in your organization can assign this role. Product, Product Profile, and other administrative roles cannot assign the Support admin role and are unable to view the **[!UICONTROL Create Case]** option used to submit a support ticket. For more information, visit the [Enterprise and teams Customer Care](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html) documentation.
 
 ### Assign the Support admin role
 
-To assign the Support admin role, follow the [edit enterprise admin role](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
+To assign the Support admin role, follow the [edit enterprise admin role](https://helpx.adobe.com/enterprise/using/admin-roles.html#add-admin-teams) instructions in the administrative roles documentation. Note that only a system administrator for your organization can assign this role. For more information on administrative hierarchy, visit the [administrative roles](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/admin-roles.ug.html) documentation.
+
+The support admin role is a non-administrative role that has access to support-related information. Support admins can view, create, and manage issue reports.
 
 ### Create a support ticket with Admin Console
 
