@@ -28,6 +28,10 @@ To assign the Support admin role, follow the [edit enterprise admin role](https:
 
 To create a ticket using [Admin Console](https://adminconsole.adobe.com/), select the **[!UICONTROL Support]** tab located in the top navigation. The [!UICONTROL Support Summary] page appears. Next, select the **[!UICONTROL Create Case]** option.
 
+>[!TIP]
+>
+> If you are unable to see the **[!UICONTROL Create Case]** option or the **[!UICONTROL Support]** tab, you need to contact a System Administrator to assign the Support admin role.
+
 ![Admin Console Support tab](./assets/Support.png)
 
 A dialog appears allowing you to select an issue type. Select the issue type that best describes your problem or question, then select **[!UICONTROL Create Case]** in the bottom-right.
