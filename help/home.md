@@ -6,11 +6,9 @@ seo-description: New Adobe Customer Support Experience
 seo-title: Adobe Experience Cloud Customer One for Enterprise
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 ---
-# New Adobe Customer Support Experience
+# Adobe Customer Support Experience
 
 ## Admin Console Support Tickets
-
-We are excited to announce the Adobe Customer Support Experience is live as of May 11th 2020!
 
 Support Tickets are now able to be submitted via the [Admin Console](https://adminconsole.adobe.com/). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#submit-ticket).
 
@@ -40,7 +38,7 @@ A dialog appears allowing you to select an issue type. Select the issue type tha
 
 ![Select issue](./assets/select-case-type.png)
 
-The **[!UICONTROL Create Case ]** dialog appears. You are asked to provide some information such as the product, priority, description, and attach any screenshots to help describe the issue. Select **[!UICONTROL Next]** to continue.
+The **[!UICONTROL Create Case]** dialog appears. You are asked to provide some information such as the product, priority, description, and attach any screenshots to help describe the issue. Select **[!UICONTROL Next]** to continue.
 
 ![create case](./assets/create_case.png)
 
