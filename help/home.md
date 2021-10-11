@@ -52,7 +52,7 @@ The next page allows you to fill in contact information and provide the best tim
 
 ## What About the Legacy Systems?
 
-New Tickets/Cases will no longer be able to be submitted in leacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
+New Tickets/Cases will no longer be able to be submitted in legacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
 
 ### Existing Tickets/Cases
 
