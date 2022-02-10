@@ -2,7 +2,7 @@
 title: Announcing the New Adobe Customer Support Experience
 description: First customer communication for new support experience
 hide: yes
-hide-from-toc: yes
+hidefromtoc: yes
 exl-id: bf78dd9e-a47e-4251-8b47-795032a7a673
 ---
 # New Adobe Customer Support Experience
