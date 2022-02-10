@@ -12,7 +12,7 @@ exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 
 Support Tickets are now able to be submitted via the [Admin Console](https://adminconsole.adobe.com/). For instructions on how to submit a support ticket, review the section for [submitting a support ticket](#submit-ticket).
 
-As previously shared, we are working to improve how you interact with Adobe Customer Support, starting with Adobe Experience Manager and Campaign products. Our vision is to streamline the support experience by moving to a single entry point, using the Adobe Admin Console. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal.
+We are working to improve how you interact with Adobe Customer Support. Our vision is to streamline the support experience by moving to a single entry point, using the Adobe Admin Console. Once live, your organization will be able to easily access Adobe Customer Support; have greater visibility into your service history via a common system across products; and request help via phone, web, and chat through a single portal.
 
 ## How to submit an Admin Console support ticket {#submit-ticket}
 
@@ -50,6 +50,8 @@ The next page allows you to fill in contact information and provide the best tim
 
 ![Submit ticket](./assets/submit_case.png)
 
+<!--
+
 ## What About the Legacy Systems?
 
 New Tickets/Cases will no longer be able to be submitted in legacy systems as of May 11th.  The [Admin Console](https://adminconsole.adobe.com/) will be used to submit new tickets/cases.
@@ -58,4 +60,4 @@ New Tickets/Cases will no longer be able to be submitted in legacy systems as of
 
 * Between May 11th and May 20th the legacy systems will remain available to work existing tickets/cases to completion.
 * Beginning May 20th the support team will migrate remaining open cases from the legacy systems to the new support experience.  You will receive an email notification regarding how to contact support to continue to work these cases.
-
+-->
