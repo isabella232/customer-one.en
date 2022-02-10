@@ -32,7 +32,7 @@ In addition, Support System Administrators will be able to:
 
 ## What you can expect next
 
-**February/March - User Set Up**
+**February/March 2022 - User Set Up**
 
 * Setup of known support users in the portal system as Customer Support Administrators
 * System-generated emails will be sent to users set up by Adobe
@@ -41,7 +41,7 @@ In addition, Support System Administrators will be able to:
 >
 >At this stage, the portal is not yet active to submit support cases.
 
-**April - Enablement**
+**April 2022 - Enablement**
 
 * Learning materials will be provided to all portal system users 
 * System Admin/designated contacts to finalize support user set up and roles 
