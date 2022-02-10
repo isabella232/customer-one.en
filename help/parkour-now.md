@@ -3,8 +3,8 @@ title: Announcing the New Adobe Customer Support Experience
 description: Customer communication for new support experience
 hide: yes
 hidefromtoc: yes
+exl-id: 6d0653a9-3a2a-4747-b8ec-bea48597cf01
 ---
-
 # New Adobe Customer Support Experience
 
 We care about our customers and are working to make it easier to get help from Adobe Customer Support when our customers need assistance. Adobe is enhancing the way you receive customer support for Adobe Analytics, Target, and Audience Manager by streamlining the experience through a single entry support portal, the Adobe Admin Console. This transition will enable greater visibility into your service history and will allow you to request support via phone, Web, and chat all through a common platform. These changes are planned to take place in April 2022.
