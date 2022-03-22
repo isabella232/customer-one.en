@@ -1,5 +1,5 @@
 ---
-title: Announcing the New Adobe Customer Support Experience
+title: Announcing the New Adobe Customer Support Experience (previous announcement)
 description: First customer communication for new support experience
 hide: yes
 hidefromtoc: yes

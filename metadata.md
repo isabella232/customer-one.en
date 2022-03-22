@@ -1,12 +1,6 @@
 ---
 cloud: Experience Cloud
-solution-title: Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
-solution-image: help/assets/experience-cloud-logo-24.png
-getting-started-title: Getting Started
-getting-started-url: https://experienceleague.adobe.com/
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/
+solution: Experience Cloud
 git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.en
 index: no
 ---
