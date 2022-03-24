@@ -1,8 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Experience Cloud
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-one.en
-index: no
+git-repo: https://github.com/AdobeDocs/customer-one.en
+index: yes
 ---
 
 # Metadata for internal use
